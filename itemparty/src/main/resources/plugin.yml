@@ -1,0 +1,5 @@
+name: Blockparty
+version: '${project.version}'
+main: com.hheylau.blockparty.Blockparty
+api-version: 1.19
+description: random item per cmd
